@@ -1,0 +1,8 @@
+This dashboard in #Power_BI help to understand how the workforce and various factors affect the productivity of the employees in an organisation.This will help the HR to manage the workforce operations in an efficient manner to results the best operational outcome of the employees.
+
+The dataset utilized various attributes related to the employees spanning over a certain time period,sourced from topmate.io.com.The primary objective of the analysis is understand the perfomance of employees in the organisation and how various factors/attributes affect the efficiency of the perfomance and also give an insight about perfomace of employees working in different department. We can clearly see that how the differet age groups perfomannce and worklife balnece affect the perfomane of employees in different department.
+
+The dashboad also reveals how job satisfction affect the job involvement and perfomace of employees in different department
+
+Tools Used: Microsoft Power BI
+#Power_BI, #Data_Analysis
